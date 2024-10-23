@@ -1,0 +1,12 @@
+{
+    "@context": {
+      "saref": "https://saref.etsi.org/core/",
+  
+      "TemperatureSensor": "saref:TemperatureSensor",
+      "Unit": "saref:Unit",
+      "Valve": "saref:Valve",
+      "temperature": "saref:Temperature",
+      "pressure": "saref:Pressure"
+    },
+    "@graph": []
+  }
